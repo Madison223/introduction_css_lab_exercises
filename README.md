@@ -3,10 +3,10 @@ This repository contains a lab assignment focused on the introduction to Cascadi
 
 ## Topics Covered
 
--Inline, internal, external CSS
--Selectors and properties
--colors and backgrounds
--fonts and text styling
--margins, padding, and borders
--basic layout concepts
+- Inline, internal, external CSS
+- Selectors and properties
+- colors and backgrounds
+- fonts and text styling
+- margins, padding, and borders
+- basic layout concepts
 
