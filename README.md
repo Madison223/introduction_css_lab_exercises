@@ -10,3 +10,7 @@ This repository contains a lab assignment focused on the introduction to Cascadi
 - margins, padding, and borders
 - basic layout concepts
 
+
+## Purpose
+To understand and introduce the role of CSS in web design, how to apply those CSS elements to HTML, practice layout formatting techniques, and to develop and understanding towards the CSS syntax and properties.
+
